@@ -1,6 +1,6 @@
 # Skorpshell
 
-<img src="https://i.imgur.com/gvCnvg2.jpg" />
+<img src="https://i.imgur.com/gvCnvg2.jpg" width="130" height="300" />
 
 Skorpshell is an Android application that provides a powerful shell-like experience right on your device. With Skorpshell, you can execute shell commands, run scripts, navigate through directories, and perform various terminal operations.
 
